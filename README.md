@@ -2,7 +2,7 @@
 
 Hi, I’m Diem! I’m a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
 
-- :seedling: I’m currently exploring **Machine Learning** and **Data Visualization**.
+- :seedling: I’m currently exploring **Vue** and **Databases**.
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - :speech_bubble: Ask me about **JavaScript**, **NODE.js**, and **web automation**.
 - :mailbox: How to reach me: [diembang09@gmail.com.com](diembang09@gmail.com)
@@ -20,7 +20,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/diembang) or check out my [personal website](https://silentbob.dev).
 
-## :hammer_and_spanner: Tools I Use
+## :hammer_and_wrench: Tools I Use
 
 <p align=“left”>
 <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg” alt=“vscode” width=“30" height=“30”/>
