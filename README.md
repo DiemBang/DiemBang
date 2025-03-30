@@ -4,7 +4,7 @@ Hi, I’m Diem! I’m a passionate developer with a knack for creating efficient
 
 - :seedling: I’m currently exploring **Vue** and **Databases**.
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- :speech_bubble: Ask me about **JavaScript**, **NODE.js**, and **web automation**.
+- :speech_balloon: Ask me about **JavaScript**, **NODE.js**, and **web automation**.
 - :mailbox: How to reach me: [diembang09@gmail.com.com](diembang09@gmail.com)
 - :zap: Fun fact: I can solve a Rubik’s cube in under a minute!
 
