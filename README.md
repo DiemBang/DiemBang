@@ -5,8 +5,7 @@ Hi, I’m Diem! I’m a passionate developer with a knack for creating efficient
 - :seedling: I’m currently exploring **Vue** and **Databases**.
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - :speech_balloon: Ask me about **JavaScript**, **NODE.js**, and **web automation**.
-- :mailbox: How to reach me: [diembang09@gmail.com.com](diembang09@gmail.com)
-- :zap: Fun fact: I can solve a Rubik’s cube in under a minute!
+- :zap: Fun fact: I can sketch a decent Donald Duck in under a minute!
 
 <!-- ## :books: My Writing & Content
 
@@ -30,7 +29,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/diembang)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
 </p>
